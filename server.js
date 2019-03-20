@@ -1,3 +1,3 @@
 const App = require('./app');
 
-(new App).bootUpApp();
+(new App()).bootUpApp();
